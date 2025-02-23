@@ -33,7 +33,7 @@ revision: HEAD
 ```
 
 ```
-[META-OPENEMBEDDED]
+[META-CLANG]
 URI: git://github.com/kraj/meta-clang
 layers: meta-clang
 branch: same dedicated branch as meta-olimex
